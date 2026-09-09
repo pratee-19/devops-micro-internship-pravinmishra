@@ -14,11 +14,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Prateeksha RT |
+| **LinkedIn** | [rtpratee](https://www.linkedin.com/in/rtpratee/) |
+| **Location** | Tamilnadu, India |
+| **Background** | Cloud, DevOps & AI developer |
+| **Goal** | to gain valuable experience |
 
 ---
 
