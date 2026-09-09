@@ -25,7 +25,7 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
+![Task 1 Screenshot](screenshots/chatgpt_interaction)
 
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
@@ -34,7 +34,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learned how to ask for help, guidance and support from this AI tool called ChatGPT. In the video, sir mentioned that a 6th-standard student won't understand what a developer with 5 years of experience can, and ChatGPT doesn't know with whom it's actually conveying the information, so we should provide a detailed prompt to get simplified answers
 
 ---
 
@@ -59,7 +59,8 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+An online bookstore named "EpicReads" can be accessed by anyone around the world who has access to the internet. The internet is basically a network of networks that enables smooth communication between two sides: the source and the destination. In the past, people used to communicate using letters, which were sent through the post. It could take months and sometimes even years to reach the destination. When there was an emergency or some information needed to be delivered quickly, this mechanism was not efficient. Hence, to overcome such problems, the internet was developed and initially used by the defence sector. Today, data is transferred through large optical fibre networks, which is one of the major reasons behind the fast communication we have today. Data can be sent through different paths, and later at the destination, it gets reassembled. This concept is called packet switching. In the earlier days, when letters were sent through the post, they had an address written on them, which helped identify the destination. The letter also had information about the sender, so if, for some reason, the letter could not be delivered, it could be sent back to the source. This can be related to the concept of an IP address in networking, which helps identify and communicate with devices on a network. In the internet world, there are different types and modes of communication, and devices can be identified using IP addresses. Sending a particular type of message or information has its own set of rules, and these rules depend on the mode of communication. For example, for video calls and voice calls, UDP is commonly used because speed is more important than guaranteed delivery. Some other important protocols are TCP/IP, HTTP, and HTTPS. HTTP is mainly used for web-related communication, while HTTPS is the secure version of HTTP, which provides encrypted communication over the web.
+
 
 ---
 
@@ -91,7 +92,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram](screenshots/Architecture)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -102,18 +103,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* HTML
+* JAVASCRIPT
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* SPRINGBOOT
+* NODE JS
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MYSQL
+* MONGODB
 
 ---
 
@@ -142,7 +143,7 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+IP address is the unique address of the device to identify from where to whom the data is communicated to and remembering those numbers for eg: 52.172.142.222 is hard, and if a user have to access it they cant do it . To solve that problem Domain name is used. It simply provides a simplified version by specifying a name for the IP address to easily access it, i.e., a "human-readable address" as well as helping with branding. Domain names can be obtained through domain registrars. When we type any domain name in the browser, and we know the application is being served from a certain IP address, then the domain name is translated; this job is done by DNS(Domain Name System), similar to the phonebook (contacts).To find what exactly is running on a particular IP Address Record type is used. Based on the application's nature, there are different types of DNS record types eg: A record type for(IPV4) and AAAA record type for(IPV6) to run different applications
 
 ---
 
@@ -178,7 +179,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![VS Code Setup Screenshot](screenshots/VSCODE)
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
@@ -230,7 +231,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://lnkd.in/p/gvf8qDJi
 ```
 
 ---
@@ -239,7 +240,28 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+Week 00 of my DevOps Learning Journey!
+I’ve started learning DevOps through the DevOps Micro Internship (DMI) — Self-Paced Engineer Track, and this week was about understanding the fundamentals of the Internet, Networking, and development environments.
+ChatGPT
+I learned how to use ChatGPT effectively as a learning assistant. One important thing I understood is that the quality of the prompt matters. By clearly explaining my level of understanding and what kind of explanation I need, I can get much more useful answers.
+Internet & Networking
+I learned the basic idea of how the Internet works as a network of networks. I understood concepts like packet switching, IP addresses, TCP/IP, HTTP and HTTPS.
+The real-life examples helped me understand how data travels between a source and destination instead of just memorising definitions.App Architecture
+I learned about two-tier and three-tier architectures using the example of an online bookstore called EpicReads.
+Two-Tier:
+Frontend → Database
+Three-Tier:
+Frontend → Backend → Database
+I also explored technologies such as HTML, JavaScript, Spring Boot, Node.js, MySQL and MongoDB.
+DNS
+I learned why we use domain names instead of remembering IP addresses such as 52.172.142.222.
+DNS works like a phonebook of the Internet, translating domain names into IP addresses. I also learned about DNS record types such as A records for IPv4 and AAAA records for IPv6.
+VS Code Setup
+Finally, I set up my VS Code environment and practiced using the integrated terminal and basic commands.
+This week helped me understand the foundation of networking and application architecture, which I know will be important as I continue learning DevOps.
+Looking forward to learning more and building step by step!
+#DevOps #DevOpsJourney #Networking #DNS #CloudComputing #SoftwareDevelopment #LearningInPublic #DMI #DevOpsMicroInternship
+P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://lnkd.in/gEpECNd2 · Start your DevOps journey: https://lnkd.in/gA958u8g
 
 ---
 
@@ -247,19 +269,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+Interacting with CHATGPT was quite easy 
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+DNS record type, I think I got the basic Knowledge about I want to explore it more deeply to get to know it to the fullest
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+I will try to explore more than the given content 
 
 ---
 
