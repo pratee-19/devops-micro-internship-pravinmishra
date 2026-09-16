@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe education is a tool to develop our skills rather than determining our intelligence. Our current education system has all the methods to measure intelligence by writing exams and scoring great marks. I dont think those who score good marks on a particular exam are more intelligent; it's just them doing the exam well at that moment. It should encourage people to learn more and explore more instead of giving trauma or pressure just to finish that exam and not focusing on improving real knowledge or learning something new
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Fire burns a human's hand when tried to touch it
 
 ### Evidence from my life
 
-Add your answer here...
+I tried to touch it with curiosity and experienced a burn on my hand 
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Sometimes rejections are heavy to except but in the end showing up matters a lot
 
 ### Evidence from my life
 
-Add your answer here...
+I attended so many campus recruitment programs and I got chance to attend it too, yet i failed to manage to clear first round, atleast I got some experience and know what to do inorder to do my next placements better
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Spending time on what truely matters help us move closer to our dreams
 
 ### Evidence from my life
 
-Add your answer here...
+I am someone who spend too much time online or get distracted easily. But one day i decided to focus on studying for my next exam and I scored good marks.
 
 ---
 
@@ -145,13 +145,17 @@ Add the following credit note at the end of your post **(If you are DMI Campus s
 
 ## Your Article
 
-Add your answer here...
+5 years ago, she was a computer science student trying to figure out where she belonged in the tech industry. Today, she had built a career of her dreams around software engineering. By 2031, she had become a software engineer working on large-scale products used by real users. Her journey had been built through consistent experimentation rather than a single breakthrough. She had started by strengthening her fundamentals in Java, Data Structures and Algorithms, SQL, DBMS, and Operating Systems. Her GitHub portfolio had grown from college assignments into a collection of practical software projects. Projects that had once existed only as ideas became working applications with documentation, source code, and deployment links. She always dreamt about becoming a content creator as well and hoped every day to become one someday, and somehow discovered that path alongside the career, she found the balance. During the placement season, she attended companies such as BI3 and Multicore ware and experienced the pressure of competitve recruitment firsthand. She reached the top 50 in one of the selection processes,proving that her preparation could take her further than she had initially imagined. She also attended the Presidio recruitment process, prepared seriously, gave the assessment her best, and still faced rejection. Those rejection become some of the most important moments of her journey. They taught her that giving her best did not always guarantee an immediate resul. There were days when she questioned her abilities and wondered whether she should change her path completely. She considered pursuing an M.Tech through GATE and building her career through campus placements again. The uncertainty about her future followed her even into her quietest moments. There were hardly any days when she went to sleep without thinking about her career, her future, and whether she was doing enough.
+
+But she kept trying. She strengthened her fundamentals. She had also fulfilled another dream she had carried alongside engineering becoming a content creator. She built a platform where she shared what she learned, documented her experiences and connected with other students navigating similar journeys. Looking back, the choices she made during those uncertain placement days had shaped the person she became. She had faced rejection, changed direction when necessary, learned from failure, and continued moving forward.
+She had not succeeded because everything went according to plan. She succeeded because, even when the plan changed, she never stopped showing up
+**P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=campus**
 
 ### Public Link
 
 Paste your link here:
 
-`Add your URL here`
+https://inspratech.blogspot.com/
 
 ---
 
@@ -183,7 +187,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+Yes, I have cheated in exams just because I had no time to prepare for it. School management encouraged it indirectly, during covid 19, I felt happy yet kind of guilty for not able to attend the exams in all proper manner. which eventually affected my 12th mark.
 
 ---
 
@@ -209,16 +213,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Range + David Epstein
+2. The Creative Act + Rick Rubin
+3. The Design of Everyday Things + Don Norman
+4. Algorithms to Live By + Brian Christian & Tom Griffiths
+5. Thinking, Fast and Slow + Daniel Kahneman
+6. Working Backwards + Colin Bryar & Bill Carr
+7. The Mom Test + Rob Fitzpatrick
+8. Atomic Habits + James Clear
+9. Deep Work + Cal NewportAdd your answer here...
+10.The Psychology of Money + Morgan Housel
 
 ---
 
@@ -247,16 +251,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Steps I walked in a day
+* Time I spent in watching reels
+* Sleep I got
+* Songs I listened to
+* Money I spent
+* Games I played
+* The amount of water i drank
+* Leetcode problems/ total
+* Words I spoke in english 
+* Days left for deadlines
 
 ---
 
@@ -282,7 +286,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes, I have test tomorrow, I still got 7 topics to study, should I consider higher studies, is this worth my time, How will I able to compete with others, is it possible to withdraw from the drive.
 
 ---
 
@@ -300,7 +304,9 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+* Mon-Sat: 1 hr walking
+* Mon-sat:2 hr studying
+* sun: revision 1 hr
 
 ---
 
@@ -308,11 +314,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+ Sunday 8 am
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+4
 
 ---
 
@@ -326,7 +332,9 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+No phones during focus
+No social media
+No games
 
 ---
 
@@ -334,28 +342,28 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I am ambitious
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+efficiency is less
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Being consistent
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
+https://www.linkedin.com/posts/rtpratee_learning-activity-7506042685154295808-vBCS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEaZcu8BZx4BY3Upby83AxKsxy6o6NPq6c8
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: https://www.linkedin.com/posts/rtpratee_learning-activity-7506042685154295808-vBCS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEaZcu8BZx4BY3Upby83AxKsxy6o6NPq6c8  
+- Blog / Medium : https://inspratech.blogspot.com/2026/09/week-1-of-my-devops-micro-internship.html 
 
 ---
 
